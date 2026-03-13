@@ -1,0 +1,12 @@
+{
+  "name": "shelby-ai-gateway",
+  "version": "1.0.0",
+  "description": "Smart routing gateway for AI models on Shelby",
+  "main": "gateway.js",
+  "dependencies": {
+    "@shelby-xyz/sdk": "latest",
+    "fastify": "^4.20.0",
+    "geoip-lite": "^1.4.7",
+    "dotenv": "^16.4.5"
+  }
+}
