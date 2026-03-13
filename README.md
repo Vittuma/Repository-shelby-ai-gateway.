@@ -16,4 +16,4 @@ In a decentralized world, latency is the enemy of AI. This project solves that b
 3. `node gateway.js`
 
 ---
-*Built by **vitcute** | Shelby Early Access & Web3 Developer*
+*Built by **vitcute** | Shelby Early Access & Web3 Creator*
